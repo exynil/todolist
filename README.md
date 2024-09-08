@@ -67,6 +67,9 @@ yarn install
 yarn dev
 ~~~~
 
+5. Откройте в браузере
+[ToDoList](http://localhost:5173)
+
 ## Заметки
 
 Swagger не добавил, не стал перегружать проект. Методы задокументировал в файле "API_DOCUMENTATION.md"
